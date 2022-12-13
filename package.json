@@ -17,7 +17,7 @@
     "body-parser": "1.19.0",
     "compression": "1.7.4",
     "cors": "2.8.5",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "fs": "0.0.1-security",
     "google-protobuf": "3.11.1",
     "grpc": "1.24.2",
